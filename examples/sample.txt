@@ -1,0 +1,2 @@
+This line contains an invisible character: pay​load
+This line is plain text.
